@@ -12,3 +12,5 @@ Flags can be used in the command line to add delays to producing and/or consumin
 -f N Specifies the number of milliseconds between the production of each crunchy frog bite.
 
 -e N Specifies the number of milliseconds between the production of each everlasting escargot sucker.
+
+Run this program using './mizzo' and any desired flags following it.
